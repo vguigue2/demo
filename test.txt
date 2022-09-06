@@ -1,3 +1,3 @@
-bonjour tout le monde !!
-Ajout d'une ligne
+bonjour tout court!!
+
 Git a été créé par Linus Torvald
